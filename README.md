@@ -1,4 +1,4 @@
-# MDR Structural Genomics: NMR Analysis of Stress Response Proteins
+# MDR Structural Biology: NMR Analysis of Stress Response Proteins
 
 [![PDB 5X1X](https://img.shields.io/badge/PDB-5X1X-blue)](https://doi.org/10.2210/pdb5X1X/pdb)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
